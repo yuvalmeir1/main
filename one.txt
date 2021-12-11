@@ -1,0 +1,10 @@
+ ! [rejected]        main -> main (non-fast-forward)
+error: failed to push some refs to 'https://github.com/yuvalmeir1/main.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+User@DESKTOP-88IHRV5 /cygdrive/c/Users/User/PycharmProjects/vsProject/anconda/gigit/do
+$
+git p
