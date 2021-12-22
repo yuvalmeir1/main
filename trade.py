@@ -298,6 +298,6 @@ while n > 0:
             cliteACCESS.change_toggle(symbol, toggle)  # reset
 
     print('---------------------------------------------------------------------------------- ')
-    time.sleep(30)
+    time.sleep(60)
 
 input('')
