@@ -3,7 +3,7 @@
 # web url for fix  the timed out exception https://www.py4u.net/discuss/141668
 # this app link https://www.mql5.com/en/docs/integration/python_metatrader5/mt5accountInfo_py
 # link to functions https://www.mql5.com/en/docs/integration/python_metatrader5/mt5copyratesfrom_py
-# DDDDDDDDDDDDDDDDDDDDDDDDDhhhhhhhhhhhhhhhhhhhhhh
+# DDDDDDDDDDDDDDDDDDDDDDDDDhhhhhhhhhhhhhhhhhhhhhhjjjjjjjjjjjjjjjjjjjj
 import time
 import MetaTrader5 as mt5
 import sqlite3
